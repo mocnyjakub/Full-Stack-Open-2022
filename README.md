@@ -2,4 +2,4 @@
 
 Full stack Web Development Course
 
-[Link to cuorse](https://fullstackopen.com/en/)
+[Link to course](https://fullstackopen.com/en/)
